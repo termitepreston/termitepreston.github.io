@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://termitepreston.github.io/sitemap.xml
